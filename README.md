@@ -6,6 +6,7 @@
 A comprehensive, no-nonsense security checklist for modern web applications. Don't deploy your next Next.js, Node, or Python app without verifying these critical security vectors.
 
 
+
 ---
 
 ## 🚀 Discover More from Stackaura
@@ -23,4 +24,5 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
 
