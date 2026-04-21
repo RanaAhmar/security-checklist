@@ -8,6 +8,7 @@ A comprehensive, no-nonsense security checklist for modern web applications. Don
 
 
 
+
 ---
 
 ## 🚀 Discover More from Stackaura
@@ -25,6 +26,7 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
 
 
 
